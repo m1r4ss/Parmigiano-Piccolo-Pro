@@ -1,6 +1,4 @@
-body {
-  align: center;
-}
+
 
 .vl {
   border-left: 1px solid white;
@@ -600,7 +598,7 @@ body {
   width: 170px;
   height: 75px;
   left: 1053px;
-  top: 43px;
+  top: 45px;
 }
 
 .img8 {
@@ -608,14 +606,15 @@ body {
   width: 425.19px;
   height: 354.63px;
   left: 119px;
-  top: 4630px;
+  top: 3675px;
 }
 
 
 body {
   background: #000000;
   color: #ffffff;
-  max-width: 1280px;
+  max-width: 50%;
+  align: center;
 }
 
 h1 {
@@ -636,10 +635,6 @@ h4 {
 
 #BoldSmCaps {
   font-family: "Parmigiano Piccolo Pro Bld";
-  font-variant: small-caps;
-}
-
-.small {
   font-variant: small-caps;
 }
 
