@@ -1,0 +1,685 @@
+.vl {
+  border-left: 1px solid white;
+  height: 731px;
+  position: absolute;
+  left: 599px;
+  top: 0px;
+  /*margin-left: 200px;*/
+}
+
+.vl2 {
+  border-left: 1px solid white;
+  position: relative;
+  height: 150px;
+  left: 721px;
+  top: -102px;
+  /*margin-left: 200px;*/
+}
+
+.ramk1 {
+  border-left: 1px solid white;
+  height: 7000px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  /*margin-left: 200px;*/
+}
+
+.ramk2 {
+  border-left: 1px solid white;
+  height: 7000px;
+  position: absolute;
+  left: 1282px;
+  top: 0px;
+  /*margin-left: 197px;*/
+}
+
+.vl3 {
+  border-left: 1px solid white;
+  height: 703px;
+  position: absolute;
+  left: 721px;
+  top: 633px;
+  /*margin-left: 200px;*/
+}
+
+.vl4 {
+  border-left: 1px solid white;
+  height: 831px;
+  position: absolute;
+  left: 514px;
+  top: 2480px;
+  /*margin-left: 200px;*/
+}
+
+.vl5 {
+  border-left: 1px solid white;
+  height: 721px;
+  position: absolute;
+  left: 725px;
+  top: 4575px;
+  /*margin-left: 200px;*/
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro Bld";
+  src: url(fonts/ParmigianoPiccoloPro-Bld.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro BldIta";
+  src: url(fonts/ParmigianoPiccoloPro-BldIta.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro Blk";
+  src: url(fonts/ParmigianoPiccoloPro-Blk.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro LtIta";
+  src: url(fonts/ParmigianoPiccoloPro-LtIta.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro Med";
+  src: url(fonts/ParmigianoPiccoloPro-Med.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  src: url(fonts/ParmigianoPiccoloPro-Lt.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro MedIta";
+  src: url(fonts/ParmigianoPiccoloPro-MedIta.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  src: url(fonts/ParmigianoPiccoloPro-Reg.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro RegIta";
+  src: url(fonts/ParmigianoPiccoloPro-RegIta.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro Thin";
+  src: url(fonts/ParmigianoPiccoloPro-Thin.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro ThinIta";
+  src: url(fonts/ParmigianoPiccoloPro-ThinIta.woff);
+}
+
+@font-face {
+  font-family: "Parmigiano Piccolo Pro BlkIta";
+  src: url(fonts/ParmigianoPiccoloPro-BlkIta.woff);
+}
+
+.zag1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-size: 24px;
+  height: 24px;
+  width: 327px;
+  left: 130px;
+  top: 48px;
+  padding-left: 130px;
+  padding-top: 48px;
+  /*margin-left: 200px;*/
+}
+
+.exampleA {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-size: 500px;
+  position: absolute;
+  width: 281px;
+  height: 500px;
+  left: 81px;
+  top: 1282px;
+  /*margin-left: 200px;*/
+}
+
+.osnovnoy {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  position: absolute;
+  width: 412px;
+  height: 72px;
+  left: 72px;
+  top: 237px;
+  /*margin-left: 200px;*/
+}
+.published {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  position: absolute;
+  font-size: 24px;
+  width: 305px;
+  height: 26px;
+  left: 130px;
+  top: 670px;
+  /*margin-left: 200px;*/
+}
+
+.published2 {
+  font-family: "Parmigiano Piccolo Pro Thin";
+  position: absolute;
+  font-size: 24px;
+  width: 121px;
+  height: 26px;
+  left: 317px;
+  top: 671px;
+  /*margin-left: 200px;*/
+}
+
+.PARMIGIANO {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-size: 64px;
+  position: absolute;
+  width: 366px;
+  height: 64px;
+  left: 72px;
+  top: 805px;
+  /*margin-left: 200px;*/
+}
+
+.PARMIGIANOINFO {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-size: 24px;
+  position: absolute;
+  width: 594px;
+  height: 256px;
+  left: 72px;
+  top: 961px;
+  line-height: 134.5%;
+  /*margin-left: 200px;*/
+}
+
+.examplea2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-size: 450px;
+  position: absolute;
+  width: 246px;
+  height: 450px;
+  left: 407px;
+  top: 1319px;
+  /*margin-left: 200px;*/
+}
+
+.examplezh {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-size: 290px;
+  position: absolute;
+  width: 526px;
+  height: 290px;
+  left: 114px;
+  top: 1721px;
+  /*margin-left: 200px;*/
+}
+
+.hhqq {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-size: 250px;
+  position: absolute;
+  width: 664px;
+  height: 250px;
+  left: 55px;
+  top: 2008px;
+  /*margin-left: 200px;*/
+}
+
+.Ҩ {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-size: 500px;
+  position: absolute;
+  width: 405px;
+  height: 500px;
+  left: 823px;
+  top: 1394px;
+  /*margin-left: 200px;*/
+}
+
+#horlinehhqq1 {
+  border-top: 0.5px;
+  color: white;
+  width: 664px;
+  position: absolute;
+  top: 2001px;
+  /*margin-left: 200px;*/
+  left: 52px;
+}
+
+#horlinehhqq2 {
+  border-top: 0.5px;
+  color: white;
+  width: 664px;
+  position: absolute;
+  top: 2014px;
+  /*margin-left: 200px;*/
+  left: 52px;
+}
+#horlinehhqq3 {
+  border-top: 0.5px;
+  color: white;
+  width: 664px;
+  position: absolute;
+  top: 2052px;
+  /*margin-left: 200px;*/
+  left: 52px;
+}
+
+#horlinehhqq4 {
+  border-top: 0.5px;
+  color: white;
+  width: 664px;
+  position: absolute;
+  top: 2067px;
+  /*margin-left: 200px;*/
+  left: 52px;
+}
+
+#horlinehhqq5 {
+  border-top: 0.5px;
+  color: white;
+  width: 664px;
+  position: absolute;
+  top: 2185px;
+  /*margin-left: 200px;*/
+  left: 52px;
+}
+
+#horlinehhqq6 {
+  border-top: 0.5px;
+  color: white;
+  width: 664px;
+  position: absolute;
+  top: 2243px;
+  /*margin-left: 200px;*/
+  left: 52px;
+}
+
+.styles {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-size: 64px;
+  position: absolute;
+  width: 202px;
+  height: 64px;
+  left: 69px;
+  top: 2380px;
+  /*margin-left: 200px;*/
+}
+
+.stylesfont {
+  font-style: "Parmigiano Piccolo Pro Lt";
+  font-size: 20px;
+  line-height: 282.5%;
+  position: absolute;
+  width: 366px;
+  height: 684px;
+  left: 74px;
+  top: 2550px;
+  /*margin-left: 200px;*/
+}
+
+.stylesexample {
+  position: absolute;
+  width: 536px;
+  height: 690px;
+  left: 639px;
+  top: 2540px;
+  line-height: 57px;
+  /*margin-left: 200px;*/
+}
+
+.styles48 {
+  position: absolute;
+  width: 249px;
+  height: 96px;
+  left: 487px;
+  top: 3365px;
+}
+
+.razr {
+  position: absolute;
+  width: 421px;
+  height: 410px;
+  left: 117px;
+  top: 3505px;
+  line-height: 200px;
+}
+
+.imena {
+  position: absolute;
+  width: 473px;
+  height: 289px;
+  left: 749px;
+  top: 3520px;
+  line-height: 91px;
+}
+
+.abcd {
+  color: black;
+  position: absolute;
+  width: 427px;
+  height: 264px;
+  left: 139px;
+  top: 391px;
+  line-height: 66px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 1em;
+  text-transform: uppercase;
+}
+
+.abcd2 {
+  color: black;
+  position: absolute;
+  width: 427px;
+  height: 264px;
+  left: 713px;
+  top: 391px;
+  line-height: 65px;
+  letter-spacing: 1em;
+  font-feature-settings: "pnum" on;
+  font-feature-settings: "onum" on;
+}
+
+.lang {
+  position: absolute;
+  width: 597px;
+  height: 128px;
+  left: 75px;
+  top: 4646px;
+}
+
+.languages {
+  position: absolute;
+  width: 430px;
+  height: 487px;
+  left: 788px;
+  top: 4646px;
+  font-size: 25px;
+  line-height: 128%;
+}
+
+.chitaem {
+  color: black;
+  position: relative;
+  width: 836px;
+  height: 205px;
+  left: 92px;
+  top: 5778px;
+  font-size: 24px;
+  line-height: 135.5%;
+}
+
+.footer {
+  color: black;
+  position: relative;
+}
+
+.chb {
+  position: absolute;
+  width: 1002px;
+  height: 24px;
+  left: 56px;
+  top: 24px;
+  font-size: 24px;
+}
+
+.gruppa {
+  font-family: "Parmigiano Piccolo Pro Thin";
+  color: black;
+  position: relative;
+  width: 1002px;
+  height: 24px;
+  left: 56px;
+  top: 90px;
+  font-size: 18px;
+}
+
+#horline {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 112px;
+}
+
+#horline2 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 625px;
+}
+
+#horline3 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 722px;
+}
+
+#horline4 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 1327px;
+}
+
+#horline5 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 2331px;
+}
+
+#horline6 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 2471px;
+}
+
+#horline7 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 3302px;
+}
+
+#horline8 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 3503px;
+}
+
+#horline9 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 3689px;
+}
+
+#horline10 {
+  border-top: 1px;
+  color: white;
+  width: 1280px;
+  position: absolute;
+  top: 3872px;
+}
+
+#horline11 {
+  border-top: 1px;
+  color: #000000;
+  width: 1280px;
+  height: 0px;
+  position: relative;
+  top: 70px;
+  border: 1px solid rgb(0,0,0);
+  border-bottom-width: 0;
+}
+
+#horline12 {
+  border-top: 1px;
+  color: #000000;
+  width: 1171px;
+  height: 0px;
+  position: relative;
+  top: 60px;
+  border: 1px solid rgb(0,0,0);
+  border-bottom-width: 0;
+}
+
+.img1 {
+  position: absolute;
+  width: 487.79px;
+  height: 463.58px;
+  left: 695px;
+  top: 141px;
+}
+
+.img2 {
+  position: absolute;
+  width: 448px;
+  height: 567px;
+  left: 757px;
+  top: 751px;
+}
+
+.img3 {
+  position: absolute;
+  width: 310px;
+  height: 288px;
+  left: 894px;
+  top: 1943px;
+}
+
+.img4 {
+  position: absolute;
+  width: 705px;
+  height: 260px;
+  left: 288px;
+  top: 64px;
+}
+
+.img5 {
+  position: relative;
+  width: 970px;
+  height: 569px;
+  left: 192px;
+  top: 39px;
+}
+
+.img6 {
+  position: relative;
+  width: 1084px;
+  height: 575px;
+  left: 100px;
+  top: 5880px;
+}
+
+.img7 {
+  position: relative;
+  width: 170px;
+  height: 75px;
+  left: 1053px;
+  top: 43px;
+}
+
+
+body {
+  background: #000000;
+  color: #ffffff;
+  max-width: 1280px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 64px;
+}
+
+h4 {
+  font-size: 72px;
+}
+
+#BoldSmCaps {
+  font-family: "Parmigiano Piccolo Pro Bld";
+  font-variant: small-caps;
+}
+
+.small {
+  font-variant: small-caps;
+}
+
+#Bold {
+  font-family: "Parmigiano Piccolo Pro Bld";
+}
+
+#BoldIta {
+  font-family: "Parmigiano Piccolo Pro BldIta";
+}
+
+#Light {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  }
+
+#LightSmCaps {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-variant: small-caps;
+}
+
+#LightIta {
+  font-family: "Parmigiano Piccolo Pro LtIta";
+}
+
+#Med {
+  font-family: "Parmigiano Piccolo Pro Med";
+}
+
+#MedIta {
+  font-family: "Parmigiano Piccolo Pro MedIta";
+}
+
+#Reg {
+  font-family: "Parmigiano Piccolo Pro Reg";
+}
+
+#RegIta {
+  font-family: "Parmigiano Piccolo Pro RegIta";
+}
+
+#Thin {
+  font-family: "Parmigiano Piccolo Pro Thin";
+}
+
+#ThinIta {
+  font-family: "Parmigiano Piccolo Pro ThinIta";
+}
+
+#Blk {
+  font-family: "Parmigiano Piccolo Pro Blk";
+}
+
+#BlkIta {
+  font-family: "Parmigiano Piccolo Pro BlkIta";
+}
