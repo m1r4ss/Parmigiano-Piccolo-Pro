@@ -1,3 +1,7 @@
+body {
+  align: center;
+}
+
 .vl {
   border-left: 1px solid white;
   height: 731px;
@@ -597,6 +601,14 @@
   height: 75px;
   left: 1053px;
   top: 43px;
+}
+
+.img8 {
+  position: relative;
+  width: 425.19px;
+  height: 354.63px;
+  left: 119px;
+  top: 4630px;
 }
 
 
